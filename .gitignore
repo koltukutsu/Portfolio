@@ -22,4 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# remove when it is ready
 src/components/subComponents/Projects.js
