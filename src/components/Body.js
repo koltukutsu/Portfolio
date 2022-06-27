@@ -1,4 +1,4 @@
-import { First, Second, Third } from "./subComponents/Projects";
+// import { First, Second, Third } from "./subComponents/Projects";
 import GradientDivider from "./subComponents/Utils";
 import Contact from "./subComponents/Contact";
 
@@ -31,9 +31,9 @@ export default function Body() {
       <section id="projects">
         <h2>Projects I'm proud of</h2>
         <div className="section-blue">
-          <First />
+          {/* <First />
           <Second />
-          <Third />
+          <Third /> */}
         </div>
       </section>
     </div>
